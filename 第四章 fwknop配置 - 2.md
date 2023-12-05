@@ -213,9 +213,11 @@ num  target     prot opt source               destination
 ## 4.9 用户界面
 介绍了客户端在各平台上的界面和设置
 
-![image](images/PP3iOGPqSGFKLBiQdTZei_jtMUFhSoJ5bcl5yAkq89s.png)
+![image](https://github.com/mxmkeep/fwknop_tutorial_cn/assets/20048552/14845209-1ab5-44e2-9333-35af530a5194)
 
-![image](images/29edHkUdmTDftZgyvrE8jOtChqrb3U1tuTlHxxEF43Q.png)
+
+![image](https://github.com/mxmkeep/fwknop_tutorial_cn/assets/20048552/d7275406-932f-4cf1-8f35-3cd01e80d0a7)
+
 
 跨平台界面开源项目 ： [https://github.com/jp-bennett/fwknop-gui](https://github.com/jp-bennett/fwknop-gui)
 
