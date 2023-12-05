@@ -8,13 +8,15 @@
 
 另外，如果使用GPG验证功能，则需要安装libgpgme库。iptables或ipfw或pf防火墙也要安装。
 
-![image](images/f1sC_OUXhRN4Td8sP-5D2iVNnEdQEfWDsYICe5sP3B0.png)
+![image](https://github.com/mxmkeep/fwknop_tutorial_cn/assets/20048552/7912fa8c-a8c5-45c8-8a37-b6a7f719f46f)
+
 
 ### 3.2 源码下载
 地址 [http://www.cipherdyne.org/fwknop/download/](https://www.cipherdyne.org/fwknop/download/) .
 
 ### 3.3 支持平台列表
-![image](images/HIZREMrnsvXlg6Ut6BoQA_YqgR88R4JShZLhvxAdIiw.png)
+![image](https://github.com/mxmkeep/fwknop_tutorial_cn/assets/20048552/fbf48ed0-a1ce-4103-88df-2fb28570dc99)
+
 
 ### 3.4 介绍各平台注意事项
 具体事项，有需要看原文
